@@ -5,7 +5,7 @@ This repository demonstrates how to containerise a .NET framework web applicatio
 This is a demo application that is created in Visual Studio 2019 when adding a .NET framework application
 
 ## Dockerfile
-This dockerfile is an adaption of a standard one
+This dockerfile is an adaption of a standard one https://github.com/microsoft/dotnet-framework-docker/blob/master/samples/aspnetapp/Dockerfile
 
 ![VS2019 wizard](/wizard.png)
 
