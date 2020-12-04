@@ -44,7 +44,7 @@ It is also useful to note that the Dockerfile is in two parts:
 This is done in the usual manner:
 ```
 docker run -it -p 8080:80 testfw
-``
-where testfw is the image name.
+```
+where *testfw* is the image name.
 
 ![Running app](/frontpage.png)
